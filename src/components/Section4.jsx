@@ -11,6 +11,7 @@ import {
 import img1 from '../assets/img1.png';
 import img2 from '../assets/img2.png';
 import img3 from '../assets/img3.png';
+import img4 from '../assets/perplexAI.png';
 import { RiHtml5Line } from "@remixicon/react";
 import { RiCss3Fill } from "@remixicon/react";
 import { RiJavascriptLine } from "@remixicon/react";
@@ -175,12 +176,12 @@ export function CarouselBasic() {
                                 </div>
                             </CarouselItem>
 
-                            {/* ═══ Project 3: Perplexity AI Clone ═══ */}
+                            {/* ═══ Project 3: perplexAI ═══ */}
                             <CarouselItem className='p-2 sm:p-4 md:p-6'>
                                 <div className='relative rounded-2xl border border-zinc-700 bg-zinc-900 overflow-hidden min-h-[400px] sm:min-h-[500px] md:aspect-video'>
-                                    <h2 className='text-white text-3xl sm:text-4xl md:text-5xl lg:text-7xl p-4 sm:p-6 md:p-10'>Perplexity AI Clone</h2>
+                                    <h2 className='text-white text-3xl sm:text-4xl md:text-5xl lg:text-7xl p-4 sm:p-6 md:p-10'>perplexAI</h2>
                                     <div className='flex flex-col md:flex-row'>
-                                        <img src={img3} alt="Project 3" className="px-4 sm:px-6 md:px-10 w-full md:w-1/2 lg:w-[600px] h-auto object-contain" />
+                                        <img src={img4} alt="Project 3" className="px-4 sm:px-6 md:px-10 w-full md:w-1/2 lg:w-[600px] h-auto object-contain" />
                                         <div className='mt-4 md:mt-10 px-4 sm:px-6 md:px-0'>
                                             <p className='text-white text-sm sm:text-base md:text-lg lg:text-2xl md:p-10'>
                                                 Created a functional clone of Perplexity AI, featuring a modern chat interface and intelligent search capabilities. Integrated AI features to provide a rich search experience, utilizing a modern frontend architecture to ensure a responsive and intuitive user journey.
@@ -193,7 +194,7 @@ export function CarouselBasic() {
                                         </div>
                                     </div>
                                     <div className='relative sm:absolute bottom-4 sm:bottom-8 right-4 sm:right-10 flex gap-3 sm:gap-4 px-4 sm:px-0 pb-4 sm:pb-0 mt-4 sm:mt-0'>
-                                        <LiveLinkButton url="#" />
+                                        <LiveLinkButton url="https://perplexity-ai-yxlc.onrender.com" />
                                         <GitHubButton url="https://github.com/rajfine/perplexity_AI.git" />
                                     </div>
                                 </div>
