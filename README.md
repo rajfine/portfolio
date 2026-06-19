@@ -1,16 +1,142 @@
-# React + Vite
+# 🚀 Raj Singh — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository.
 
-Currently, two official plugins are available:
+This portfolio showcases my journey as a Full-Stack Developer, featuring projects, skills, and technologies I use to build modern web applications, scalable backend systems, and AI-powered solutions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm **Raj Singh**, a B.Tech Computer Science student passionate about Full-Stack Development, Cloud Technologies, and AI Applications.
 
-## Expanding the ESLint configuration
+I enjoy building scalable web applications, backend systems, and intelligent software solutions using modern technologies. My focus is on clean architecture, performance optimization, and solving real-world problems through technology.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Live Demo
+
+🔗 **Portfolio:** Coming Soon
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- GSAP
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+
+### Cloud & DevOps
+- AWS
+- Docker
+- Kubernetes
+- CI/CD
+
+### AI
+- RAG (Retrieval-Augmented Generation)
+- AI Integrations
+- LLM Applications
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Battle Arena
+
+AI-powered platform enabling interactive AI model battles and comparisons through a scalable backend architecture.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, REST APIs
+
+**Repository:**  
+https://github.com/rajfine/AI-Battle-Arena
+
+**Live Demo:**  
+https://ai-battle-arena-ievm.vercel.app/
+
+---
+
+### 🛒 Snitch
+
+A modern full-stack e-commerce platform featuring authentication, product management, and seamless shopping experiences.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+**Repository:**  
+https://github.com/rajfine/E-commerce-platform
+
+---
+
+### 🔍 Perplexity AI Clone
+
+An AI-powered search and chat application inspired by Perplexity AI, designed to provide intelligent responses and enhanced user interaction.
+
+**Tech Stack:** React.js, AI APIs, Node.js
+
+---
+
+## 📚 Education
+
+### Bachelor of Technology (B.Tech)
+
+**Computer Science & Engineering**
+
+Mangalmay Institute of Engineering and Technology (MIET)
+
+**2024 – 2028**
+
+---
+
+## 🏆 Certifications
+
+- Database Management Systems (DBMS)
+
+---
+
+## 🎯 Current Focus
+
+- Full-Stack Development
+- Cloud Computing (AWS)
+- Docker & Kubernetes
+- AI Applications & RAG Systems
+- System Design
+- Scalable Backend Development
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/rajfine
+- LinkedIn: https://www.linkedin.com/in/raj-singh-a8a3a333a
+- Email: raj20051104@gmail.com
+
+---
+
+## ⭐ Support
+
+If you find this portfolio interesting, consider giving the repository a star.
+
+It motivates me to keep building and sharing projects with the developer community.
+
+---
+
+### Building • Learning • Improving 🚀
