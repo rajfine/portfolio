@@ -170,7 +170,7 @@ export function CarouselBasic() {
                                         </div>
                                     </div>
                                     <div className='relative sm:absolute bottom-4 sm:bottom-8 right-4 sm:right-10 flex gap-3 sm:gap-4 px-4 sm:px-0 pb-4 sm:pb-0 mt-4 sm:mt-0'>
-                                        <LiveLinkButton url="#" />
+                                        <LiveLinkButton url="https://snitch-ecommerce-kd5i.onrender.com" />
                                         <GitHubButton url="https://github.com/rajfine/E-commerce-platform" />
                                     </div>
                                 </div>
