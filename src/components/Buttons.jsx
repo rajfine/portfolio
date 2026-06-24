@@ -8,7 +8,7 @@ export function HoverBorderGradientDemo() {
       <HoverBorderGradient
         containerClassName="rounded-xl"
         as="a"
-        href="#"
+        href="/raj-resume.pdf"
         download="Raj_Singh_Resume.pdf"
         className="px-6 sm:px-10 dark:bg-black bg-white text-black dark:text-white flex items-center space-x-2"
       >
